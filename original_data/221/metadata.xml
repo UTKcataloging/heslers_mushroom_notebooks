@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Introduction to L.R. Hesler&#39;s Mushroom Notebooks</title>
+<publication-date>2013-11-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>repete@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Petersen</lname>
+<fname>R</fname>
+<mname>H</mname>
+</author>
+</authors>
+<disciplines><discipline>Biology</discipline>
+</disciplines><coverpage-url>http://trace.tennessee.edu/utk_hesler/221</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1220&amp;amp;context=utk_hesler&amp;amp;unstamped=1</fulltext-url>
+<label>221</label>
+<document-type>1_introduction</document-type>
+<type>article</type>
+<articleid>1220</articleid>
+<submission-date>2015-02-05T07:12:56-08:00</submission-date>
+<native-url>http://trace.tennessee.edu/context/utk_hesler/article/1220/type/native/viewcontent</native-url>
+<publication-title>Dr. L. R. Hesler Botanical Research</publication-title>
+<context-key>6612428</context-key>
+<submission-path>utk_hesler/221</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-02-05T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-11-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>
