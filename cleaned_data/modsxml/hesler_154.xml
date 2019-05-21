@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">hesler_154</identifier>
+   <titleInfo supplied="yes">
+      <title>Biographical sketches of deceased North American mycologists including a few European mycologists (A-K)</title>
+   </titleInfo>
+   <abstract>Brief biographical entries with references on important mycologists. Individuals described include Lawrence Marion Ames, Samuel McCutcheon Bain, Howard James Baker, Mary Elizabeth Banning and many more.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n85805269">
+      <namePart>Hesler, L. R. (Lexemuel Ray)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued>January 1975</dateIssued>
+      <dateIssued keyDate="yes" encoding="edtf">1975-01</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300048715">articles</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85089188">
+      <topic>Mycology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85089187">
+      <topic>Mycologists</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87116131">
+         <namePart>Atkinson, George Francis, 1854-1918</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n88144876">
+         <namePart>Arthur, Joseph Charles, 1850-1942</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n98084842">
+         <namePart>Bartholomew, Elam, 1852-1934</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85235672">
+         <namePart>Bary, A. de (Anton), 1831-1888</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2009055731">
+         <namePart>Baxter, Dow Vawter, 1898-1965</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81037397">
+         <namePart>Berkeley, M. J. (Miles Joseph), 1803-1889</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85015074">
+         <namePart>Bessey, Charles E. (Charles Edwin), 1845-1915</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2002091768">
+         <namePart>Bessey, Ernst Athearn, 1877-1957</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2019010770">
+         <namePart>Bucholtz, F. (Fedor), 1872-1924</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no90020519">
+         <namePart>Buller, A. H. Reginald (Arthur Henry Reginald), 1874-1944</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87135727">
+         <namePart>Burt, E. A. (Edward Angus), 1859-1939</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n92023234">
+         <namePart>Charles, Vera K. (Vera Katherine)</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n89603037">
+         <namePart>Chardón, Carlos E. (Carlos Eugenio), 1897-1965</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n91097468">
+         <namePart>Ciferri, Raffaele, 1897-1964</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85810316">
+         <namePart>Clements, Frederic E. (Frederic Edward), 1874-1945</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2012003241">
+         <namePart>Clinton, G. P. (George Perkins), 1867-1937</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85387689">
+         <namePart>Clinton, George W. (George William), 1807-1885</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n50031184">
+         <namePart>Coker, William Chambers, 1872-1953</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87826910">
+         <namePart>Cooke, M. C. (Mordecai Cubitt), 1825-1914</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/nr97035583">
+         <namePart>Cotton, A. D. (Arthur Disbrowe), 1879-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2015025690">
+         <namePart>Crossland, C. (Charles), 1844-1916</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81037396">
+         <namePart>Curtis, M. A. (Moses Ashley), 1808-1872</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no90020526">
+         <namePart>Dearness, John, 1852-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87136159">
+         <namePart>Duggar, Benjamin M. (Benjamin Minge), 1872-1956</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2019009792">
+         <namePart>Durand, E. J. (Elias Judah), 1870-1922</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2009111454">
+         <namePart>Earle, F. S. (Franklin Sumner), 1856-1929</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no95026261 ">
+         <namePart>Edgerton, C. W. (Claude Wilbur), 1880-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n90612096">
+         <namePart>Ellis, Job Bicknell, 1829-1905</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87122084">
+         <namePart>Shear, C. L. (Cornelius Lott), 1865-1956</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87135721">
+         <namePart>Krieger, L. C. C. (Louis Charles Christopher), 1873-1940</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>L.R. Hesler Botanical Research Notebooks</title>
+      </titleInfo>
+      <identifier>MS.3751</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>L.R. Hesler’s Mushroom Research Notebooks</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

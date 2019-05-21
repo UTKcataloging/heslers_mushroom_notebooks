@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">hesler_155</identifier>
+   <titleInfo supplied="yes">
+      <title>Biographical sketches of deceased North American mycologists including a few European mycologists (L-Z)</title>
+   </titleInfo>
+   <abstract>Brief biographical entries with references on important mycologists. Individuals described include David Hunt Linder, George Martin, Arthur Jackson Mix, Elizabeth Eaton Morse, and many more.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n85805269">
+      <namePart>Hesler, L. R. (Lexemuel Ray)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued>January 1975</dateIssued>
+      <dateIssued keyDate="yes" encoding="edtf">1975-01</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300048715">articles</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85089188">
+      <topic>Mycology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85089187">
+      <topic>Mycologists</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85806009">
+         <namePart>Lange, Jakob E. (Jakob Emanuel), 1864-1941</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2007054473">
+         <namePart>Lloyd, C. G. (Curtis Gates), 1859-1926</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n2001020920">
+         <namePart>Long, W. H. (William Henry), 1867-1947</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87121559">
+         <namePart>Macbride, Thomas H. (Thomas Huston), 1848-1934</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2005001441">
+         <namePart>Mains, E. B. (Edwin Butterworth), 1890-1968</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83127598">
+         <namePart>Martin, G. W. (George Willard), 1886-1971</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n83825013">
+         <namePart>Massee, George, 1850-1917</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2003075907">
+         <namePart>McIlvaine, Charles, 1840-1909</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85805889">
+         <namePart>Miller, Julian Howell, 1890-1961</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/nr93048921">
+         <namePart>Miyabe, Kingo, 1860-1951</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2014082161">
+         <namePart>Morgan, A. P., 1836-1907</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85386083">
+         <namePart>Murrill, William A., 1869-1957</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85809507">
+         <namePart>Overholts, Lee Oras, 1890-1946</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n93090389">
+         <namePart>Palmer, Julius A. (Julius Auboineau), 1840-1899</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/nr95020284">
+         <namePart>Pammel, L. H. (Louis Hermann), 1862-1931</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n84037652">
+         <namePart>Patouillard, N.</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n91063293">
+         <namePart>Patterson, Flora W. (Flora Wambaugh), 1847-1928</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n88030646">
+         <namePart>Peck, Charles H. (Charles Horton), 1833-1917</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87122242">
+         <namePart>Persoon, C. H. (Christiaan Hendrik), 1755-1837</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/nr94011181">
+         <namePart>Prentiss, Albert Nelson, 1836-1896</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85174128">
+         <namePart>Ravenel, Henry William, 1814-1887</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no96023274">
+         <namePart>Rea, Carleton</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2011114737">
+         <namePart>Romell, Lars, 1854-1927</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85826468">
+         <namePart>Saccardo, P. A. (Pier Andrea), 1845-1920</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85194143">
+         <namePart>Schweinitz, Lewis David von, 1780-1834</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87134772">
+         <namePart>Lamson-Scribner, F.</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85826352">
+         <namePart>Seaver, Fred Jay, 1877-1970</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2006048707">
+         <namePart>Seymour, Arthur Bliss, 1859-1933</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2018100884">
+         <namePart>Everhart, B. M. (Benjamin Matlack), 1818-1904</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2004017859">
+         <namePart>Zundel, George L., 1885-1950</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>L.R. Hesler Botanical Research Notebooks</title>
+      </titleInfo>
+      <identifier>MS.3751</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>L.R. Hesler’s Mushroom Research Notebooks</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
